@@ -662,3 +662,19 @@
   color: #fff;
   text-decoration: none;
 }
+
+#recs {
+  text-decoration: none;
+  color: #fff;
+  height: 100px;
+  width: 200px;
+  border-radius: 4px;
+  border: solid 1px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+  background-image: none;
+  width: 100%;
+}
