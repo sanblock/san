@@ -684,25 +684,3 @@ table, th, td {
 .content2 {
   background-color: #131313;
 }
-
-.records {
-  text-align: center;
-  color: #fff;
-  background-color: #131313;
-}
-
-#recs {
-  text-decoration: none;
-  color: #fff;
-  height: 100px;
-  width: 200px;
-  border-radius: 4px;
-  border: solid 1px;
-  border-radius: 20px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  color: #fff;
-  background-image: none;
-  width: 100%;
-}
