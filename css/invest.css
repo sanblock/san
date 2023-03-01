@@ -702,7 +702,5 @@ table, th, td {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  color: #fff;
-  background-image: none;
   width: 100%;
 }
