@@ -687,8 +687,8 @@ table, th, td {
 
 .records {
   text-align: center;
-  color: #fff;
   background-color: #131313;
+  text-decoration: none;
 }
 
 #recs {
